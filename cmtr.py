@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
 
-import libcommitr
+import libcmtr
 
-libcommitr.main()
+libcmtr.main()
